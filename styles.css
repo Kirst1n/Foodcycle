@@ -49,6 +49,7 @@ p {
   position: fixed;
   bottom: 10px;
   color: #000000;
+  align-items: center;
 }
 
 p1 {
@@ -73,9 +74,5 @@ p2{
 }
 p3{
   align-items:right;
-}
-
-ul{
-  align-items:center;
 }
 
