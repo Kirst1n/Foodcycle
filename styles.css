@@ -59,7 +59,7 @@ p1 {
 .column {
   float: left;
   width: 50%;
-  padding: 5px;
+  padding: 50px;
 }
 
 /* Clear floats after image containers */
