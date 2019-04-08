@@ -10,6 +10,15 @@ body {
   font-family: 'Rockwell'
 }
 
+ .wrapper ul {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+        /* For IE, the outcast */
+        zoom:1;
+        *display: inline;
+    }
+
 div {
   height: 0%;
   display: flex;
