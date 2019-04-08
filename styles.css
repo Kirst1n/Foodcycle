@@ -68,3 +68,9 @@ p1 {
   clear: both;
   display: table;
 }
+p2{
+  align-items:left
+}
+p3{
+  align-items:right
+}
