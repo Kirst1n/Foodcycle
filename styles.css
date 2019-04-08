@@ -38,6 +38,9 @@ h1 {
   font-weight: bold;
   text-align: center;
 }
+div.a {
+ text-align: center;
+}
 h2 {
   padding: 10px 30px;
   border-radius: 5px;
