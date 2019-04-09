@@ -65,6 +65,8 @@ p {
 }
 
 p1 {
+  margin: 2vh 2vw;
+  width: 90%;
   text-align: center;
   align-items: center;
 }
